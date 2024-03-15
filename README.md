@@ -8,6 +8,7 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Neural Network Model
 
+![image](https://github.com/aldrinlijo04/mnist-classification/assets/118544279/eef099d4-ccf0-4148-8d61-3cbe8c06ac37)
 
 
 ## DESIGN STEPS
@@ -172,4 +173,4 @@ print("REG NO:212222240007")
 ![download](https://github.com/aldrinlijo04/mnist-classification/assets/118544279/61a4943e-0cf4-4509-b4d3-5ad0eeb9a851)
 
 ## RESULT
-Include your result here.
+Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
